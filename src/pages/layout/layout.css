@@ -1,0 +1,17 @@
+
+.fixed-dashboard-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+}
+
+.main-page {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.main-large {
+  padding-left: 290px;
+}
